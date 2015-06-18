@@ -1,2 +1,3 @@
 # Material Design Color Generator
-More information, and a demo can be found at <a href="http://knizia.biz/mcg/">http://knizia.biz/mcg</a>
+@mbitson has improved this tool see see http://mcg.mbitson.com/ for an updated version of this project or visit his github repository https://github.com/mbitson
+More information and a demo can be found at <a href="http://knizia.biz/mcg/">http://knizia.biz/mcg</a>
